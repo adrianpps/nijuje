@@ -1,2 +1,0 @@
-# nijuje
-pagina web
